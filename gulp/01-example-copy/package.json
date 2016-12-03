@@ -1,0 +1,14 @@
+{
+  "name": "01-example-copy",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "build": "gulp copy"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+	"del": "^2.2.2"
+  }
+}
