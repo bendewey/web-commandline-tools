@@ -1,0 +1,17 @@
+{
+  "name": "bower",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Ben Dewey <bdewey01@hotmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/bendewey/web-commandline-tools",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

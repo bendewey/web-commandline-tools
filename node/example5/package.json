@@ -1,15 +1,14 @@
 {
-  "name": "example2",
+  "name": "example3",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
-	"build": "./node_modules/.bin/node-sass --output ./ ./sass/site.scss"
+    "test": "mocha **/*.spec.js"
   },
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "http-server": "^0.9.0",
-    "node-sass": "^3.13.0"
+    "mocha": "^3.2.0"
   }
 }

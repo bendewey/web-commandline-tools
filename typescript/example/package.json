@@ -1,0 +1,19 @@
+{
+  "name": "example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/core-js": "^0.9.34",
+    "@types/node": "^6.0.46",
+    "typescript": "^2.0.3",
+    "typings": "^1.3.3"
+  },
+  "scripts": {
+    "tsc": "tsc",
+    "tsc:w": "tsc -w"
+  },
+  "version": "1.0.0"
+}

@@ -1,8 +1,8 @@
 module.exports = (function() {
-    function Calculator() {};
+    function Calculator() {}
     Calculator.prototype.add = function(left, right) {
         return left + right;    
-    } 
+    };
     
     return Calculator;
 })();
